@@ -13,7 +13,7 @@ APP_CONFIG = {
     "app_title": "Amazon Review Analytics Pro",
     "app_subtitle": "专业的亚马逊评论数据分析平台",
     "author": "海翼IDC团队",
-    "version": "v1.2.0",
+    "version": "v1.3.0",
     "contact": "idc@oceanwing.com",
     # logo_path 可以设置为本地图片路径，或者使用base64编码的图片
     "logo_path": None,  # 设置为图片文件路径，如 "logo.png"
