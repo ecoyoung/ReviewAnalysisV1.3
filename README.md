@@ -1,3 +1,5 @@
+**简体中文** | [English](README.en.md)
+
 # Amazon评论分析工具
 这是一个用于分析Amazon产品评论的Web应用程序。
 开发团队：海翼IDC团队
@@ -80,4 +82,3 @@ streamlit run Home.py
 - v1.2.0: 新增评论翻译功能，支持Google翻译和腾讯翻译API
 - v1.1.2: 优化数据处理和可视化
 - v1.1.0: 基础功能实现
-
